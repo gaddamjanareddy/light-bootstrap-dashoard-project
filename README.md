@@ -62,7 +62,7 @@ npm install
 npm start
 
 ###  Frontend Setup
-
+```bash
 cd light-bootstrap-dashboard-react
 npm install
 npm start
